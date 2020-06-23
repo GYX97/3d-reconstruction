@@ -6,7 +6,7 @@ import cv2
 #from camera import Camera
 #import structure
 import processor
-import features
+
 
 def dino():
     # Dino
